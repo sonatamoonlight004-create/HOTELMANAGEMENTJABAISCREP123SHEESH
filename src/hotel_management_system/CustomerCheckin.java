@@ -120,12 +120,12 @@ public class CustomerCheckin extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("Costumer Checkin");
+        jLabel1.setText("Customer Checkin");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(66, 22, 351, 32));
 
         jLabel2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("Name");
+        jLabel2.setText("Full Name");
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(95, 97, -1, -1));
 
         jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
